@@ -1,2 +1,17 @@
 # sglife
-Describe my view about life in Singapore
+
+介绍新加坡的生活，力求全面、客观、多元。
+
+## 来
+
+## 房
+
+## 工作机会
+
+## 小孩上学
+
+## 医疗与保险
+
+## 玩
+
+## 投资
