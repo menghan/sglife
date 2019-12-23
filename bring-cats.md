@@ -6,7 +6,8 @@
 
 ## 带猫入境
 
-政府有一个非常详细的[指南网页](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore).  由于中国属于 Category D，需要的步骤很多，政府还准备了一个[操作时间表](https://www.nparks.gov.sg/-/media/avs/migrated-content/animals-and-pets/bringing-animals-into-singapore-and-exporting/bringing-dogs-and-cats/category-d-dog-cat-import-flowchart-apr2018.pdf)，供人了解需要在什么时候做完什么事情。
+政府有一个非常详细的[指南网页](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore).
+由于中国属于 Category D，需要的步骤很多，政府还准备了一个[操作时间表](https://www.nparks.gov.sg/-/media/avs/migrated-content/animals-and-pets/bringing-animals-into-singapore-and-exporting/bringing-dogs-and-cats/category-d-dog-cat-import-flowchart-apr2018.pdf)，供人了解需要在什么时候做完什么事情。
 
 总体来说，整个入境过程包括
 
@@ -16,4 +17,3 @@
 4. 隔离30天之后将猫取回
 
 如果不想自己带猫入境，可以找商家帮忙，但是他们应该也是需要完成以上步骤的。
-
